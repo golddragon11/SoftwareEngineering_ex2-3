@@ -9,7 +9,7 @@ public class SimpleTest {
 	@Test
 	public void testAdd() {
 		Arithmetic calc = new Arithmetic();
-		assertEquals(calc.add(1, 1), 2);
+		assertEquals(calc.add(1, 2), 3);
 	}
 	@Test
 	public void testSub() {
