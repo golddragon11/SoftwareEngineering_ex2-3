@@ -1,2 +1,2 @@
 # SoftwareEngineering_ex2-3
-[![Build Status](https://travis-ci.com/golddragon11/SoftwareEngineering_ex2-3.svg?branch=main)](https://travis-ci.com/golddragon11/SoftwareEngineering_ex2-3)
+[![Build Status](https://app.travis-ci.com/golddragon11/SoftwareEngineering_ex2-3.svg?token=nkeqFxv6SEzShg5vpA6i&branch=main)](https://app.travis-ci.com/golddragon11/SoftwareEngineering_ex2-3)
